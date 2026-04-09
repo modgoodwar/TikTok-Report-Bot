@@ -2,3 +2,4 @@ requests
 browser-cookie3
 pycryptodome
 tls-client
+typing-extensions
